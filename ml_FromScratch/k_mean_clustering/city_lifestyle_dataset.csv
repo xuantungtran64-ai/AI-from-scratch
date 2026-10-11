@@ -1,0 +1,301 @@
+city_name,country,population_density,avg_income,internet_penetration,avg_rent,air_quality_index,public_transport_score,happiness_score,green_space_ratio
+Old Vista,Europe,2775,3850,86.4,1310,43,52,8.5,23.8
+Beachport,Europe,3861,3700,78.1,1330,42,62.8,8.1,33.1
+Valleyborough,Europe,2562,4310,80.1,1330,39,73.2,8.5,40.2
+City,Europe,3192,3970,81.2,1480,60,49.2,8.5,43.6
+Falls,Europe,3496,4320,100,1510,64,93.7,8.5,42.5
+North Falls,Europe,1444,4640,78.5,1620,35,51.6,8.4,20.3
+Hillhaven,Europe,1233,3450,84.2,1080,55,47.5,8.5,50
+Gardenton,Europe,936,3610,72.4,1520,47,59.5,7.9,35.6
+Springsville,Europe,2938,5220,100,1950,53,60,8.5,34.8
+North Ridge,Europe,3513,3330,88.7,1040,76,60.1,7.7,31.7
+Ridgeshire,Europe,3842,3170,70.6,1060,65,56.9,7.1,41.6
+Forestville,Europe,4298,3230,78.9,1380,59,63.1,8.5,31.3
+Garden,Europe,4819,3310,76.4,1340,68,55.1,7.6,35.7
+Bridge,Europe,3577,2660,70.1,980,79,43.1,5.8,32.2
+Port Bridge,Europe,2948,4040,69.8,1020,63,81,8.5,34.4
+Stone,Europe,2402,3500,64.7,1580,45,95,8.5,23.7
+Riverburg,Europe,4135,2900,74.5,950,68,83.2,8.3,23.2
+Gardenburg,Europe,2443,2710,72.6,950,62,52.6,7.3,41
+Pointborough,Europe,4630,2220,74.8,870,59,63,7.4,43.8
+Parkland,Europe,813,2160,85.1,890,47,47.2,7.3,39.5
+Cityport,Europe,1567,2770,79,1140,63,57.3,7.5,31.4
+Cityhaven,Europe,2266,3500,88.7,1270,64,52.3,8.4,44.2
+San Wood,Europe,2256,4150,100,1660,53,62.3,8.5,34.5
+Harborshire,Europe,2714,1850,54.4,760,56,46,6.1,37.2
+East Valley,Europe,455,4490,100,1930,35,80.7,8.5,41.9
+Valleyburg,Europe,3312,2690,88.8,1000,68,41.6,7.6,38.7
+Point,Europe,3442,4300,87.5,1450,50,87.4,8.5,40.4
+Woodshire,Europe,4495,2350,75,740,77,77.1,7.1,38
+New Wood,Europe,3755,3560,79.2,1380,49,52.6,8.5,53.8
+Port Beach,Europe,1733,4340,99.7,1590,44,60.3,8.5,23.7
+Fallshaven,Europe,3914,3710,61.6,970,72,58.5,7.6,35.8
+Vistaland,Europe,3109,3070,88.5,1300,46,50.6,8.5,36.6
+San Vista,Europe,1513,4000,100,1410,48,50.6,8.5,35.4
+Bayport,Europe,3434,2930,70.3,1250,65,40.8,7.3,33.3
+Field,Europe,2074,3980,87.7,1400,58,68.7,8.5,49.2
+North Harbor,Europe,5666,3820,94.1,1410,75,62.9,8,31.3
+Forestshire,Europe,4698,3010,81.8,1000,89,65.4,7.2,26.3
+Springs,Europe,1885,2890,75.5,990,62,49.7,7.9,41.6
+Mount City,Europe,3696,3000,66.1,1130,82,49.3,7.3,32
+River,Europe,1930,3880,100,1420,68,53.7,8.5,37.3
+Port Springs,Europe,4643,3410,82.4,1120,63,53.4,8,41.1
+Hill,Europe,3605,2880,90.1,1290,55,55.9,8.5,38.1
+New Park,Europe,3079,3880,100,1230,53,57,8.5,40.8
+Lake Town,Europe,2294,3910,84.8,1660,45,72.3,8.5,52.1
+Wood,Europe,3984,3120,86.2,1100,60,63.9,8.5,44.1
+Townland,Europe,3182,2200,83.6,680,59,66.4,7.2,36.9
+Town,Europe,3259,4080,91.1,1720,72,77.4,8.5,41.4
+Woodland,Europe,1914,3610,65.8,1420,45,59.9,7.9,39.4
+Pointland,Europe,3759,4330,96.5,1570,48,53.4,8.5,35.5
+San Harbor,Europe,3765,3680,97,1310,44,58.7,8.5,27.8
+Saint Falls,Europe,2731,2880,75.6,1170,50,50.8,6.8,26.2
+Fieldton,Europe,2400,4250,79,2000,55,61.1,7.7,30
+New Hill,Europe,1138,3440,84,1020,55,62.8,8,45.9
+Port Stone,Europe,4397,2510,87,780,57,52.8,6.9,49.7
+West Stone,Europe,3759,3620,83.6,1430,73,60.7,7.2,27.5
+Woodport,Europe,2343,3940,89.5,1320,49,62.8,8.5,36.9
+Harborport,Europe,3319,2630,59,790,75,46.1,6.3,43.3
+South Forest,Europe,3318,2960,98.5,1260,72,46.7,7.4,38.5
+Mount Valley,Europe,4600,2270,82.1,690,65,52.8,7.5,42.4
+Bridgedale,Europe,3003,4020,91.3,1410,46,69.2,8.5,41.2
+Pointshire,Asia,3560,2990,89.1,1100,76,61.2,6.2,40
+Forestdale,Asia,14427,1840,58.7,520,108,87,3.7,9.6
+Woodburg,Asia,7332,1510,70.8,530,140,44,4.2,36.8
+North City,Asia,13460,2770,70.7,720,130,57.4,3.7,11.2
+Riverford,Asia,9323,3170,65.7,1070,143,61.8,4.1,21.7
+Gardenborough,Asia,5488,2260,76,1010,81,44.4,5.4,36.4
+San Point,Asia,4256,2690,71.4,1040,99,50.8,5.6,33.2
+Saint Forest,Asia,8776,1700,85.8,600,87,48.9,5.5,21.6
+Bay,Asia,7680,2510,72.2,830,107,51.2,5.6,32.5
+Mount Ridge,Asia,7641,3500,72.4,1490,57,69.6,7.6,21.2
+Old Wood,Asia,6448,640,53.4,220,57,44.1,4.6,20.9
+Old Springs,Asia,1954,2270,75.6,960,77,38.9,6.3,44.1
+Ridgeford,Asia,4838,2430,75.6,990,79,53.8,6.6,35.1
+Stoneland,Asia,10125,2430,66.6,920,79,61.1,5.3,11
+Forest,Asia,5813,2480,78.4,950,85,38.3,4.9,22.5
+Springsdale,Asia,4983,2650,78.2,1050,74,55.6,7.1,47.5
+Lake Bay,Asia,8179,2970,72.9,1050,101,59.9,5.6,22.4
+Pointdale,Asia,11483,3760,91.4,1450,78,92.7,7.4,26.2
+Park,Asia,3764,1090,52.7,330,102,34.3,4.7,44
+South Garden,Asia,4796,2540,85.4,880,61,52.1,5.8,25.4
+Parkville,Asia,8162,2670,78.2,960,133,49.6,4.6,19.2
+Fallsborough,Asia,5673,2680,48.4,1110,91,70.9,5.7,29.2
+Pointhaven,Asia,11278,2130,83.4,740,70,49.4,6.1,19
+Port Field,Asia,9819,2680,67.3,1160,120,54.7,5.1,23.9
+Lake Hill,Asia,11559,1690,69.6,590,140,62.1,2.5,2
+Mount Hill,Asia,10836,2130,71,840,112,57.9,4.6,20.9
+Beach,Asia,12146,1900,64.6,730,140,75.7,3.5,24.8
+Mount Field,Asia,8743,3020,76.1,1130,111,85.1,5.6,13.5
+Harbor,Asia,9710,2680,73.1,900,129,86,4.8,20.1
+Old Garden,Asia,3724,2630,80.6,660,103,53.2,5.9,22.7
+Vista,Asia,9488,2350,56.7,890,104,57.2,5.5,29.1
+Townton,Asia,12579,3130,75.5,900,98,71.7,5.8,17.1
+Mount Beach,Asia,10667,3110,72.2,860,102,57.3,6.3,21.8
+San Bay,Asia,8339,2730,80.8,1040,131,67.5,5.6,21
+Port Harbor,Asia,2574,2400,76.8,1020,103,52.1,5.5,33.1
+Stoneton,Asia,13345,2720,86.1,950,124,65.7,4.8,6.1
+Parkshire,Asia,8782,3380,71.2,1200,88,74.4,6.8,17.4
+Pointford,Asia,10164,1880,70.5,630,142,50.8,4.3,25.3
+Parkhaven,Asia,11310,3730,100,1410,115,81.2,5.7,14.8
+Port Falls,Asia,8925,1810,69.3,640,93,66.9,5,31.9
+West Park,Asia,4806,2480,76.8,860,87,56.3,5.1,24.9
+Hilldale,Asia,138,2030,51.5,740,69,42.3,5.3,36.1
+Valleyford,Asia,2505,3000,60.1,1120,76,63.7,7,45.8
+Stoneshire,Asia,8072,2290,74.8,550,100,58.7,5.3,27.9
+Bridgeburg,Asia,3845,2000,67.6,690,81,36.9,5.7,39.3
+Mount Falls,Asia,100,2330,54.6,980,63,43.8,6.6,46.1
+New River,Asia,7814,2050,79.9,640,62,71.3,7.2,31.3
+Beachford,Asia,10378,2650,68.5,790,77,74,6.6,34.5
+Fallsville,Asia,9421,2340,61.7,910,106,73.7,5.4,19.3
+West Bay,Asia,1637,2120,66.2,760,83,35.4,5.1,24.4
+Bayford,Asia,7379,2150,70.6,450,68,68.6,6.2,35.6
+Gardenford,Asia,10624,2520,78.1,830,83,74.4,5.9,30.4
+Woodhaven,Asia,13612,2660,83.5,1090,126,74.7,4.1,12.2
+Port Wood,Asia,6641,2320,93.4,920,102,71.8,6.3,37.4
+Cityville,Asia,6135,2230,69.7,820,82,53.3,6.5,40
+Springsborough,Asia,5628,2300,76.3,800,84,52.2,6.1,32.6
+Old River,Asia,3000,2790,71.4,1080,48,49.4,7.2,38.7
+Bayshire,Asia,7320,1090,74.7,400,71,50.1,6.5,34.6
+Saint Field,Asia,4611,2130,69.9,770,91,29.2,4.8,32.4
+Stonedale,Asia,4360,2510,72.5,920,83,42,5.4,29.2
+Beachland,Asia,10511,1950,77,580,146,77.2,4.5,30.3
+Forestborough,Asia,6779,2730,71,740,56,65.8,7.5,25
+Rivershire,Asia,6949,2860,70.3,1090,75,70.1,6.5,19.7
+Pointport,Asia,5326,2280,49.5,640,80,48.3,5.1,31.3
+Fallsburg,Asia,9118,2580,82.2,890,90,55.9,6.6,44.3
+Gardenport,Asia,8955,1730,58.2,620,78,56.6,4.9,28.4
+Ridgedale,Asia,6161,3330,81.8,1260,101,75.7,6.6,44.4
+East City,Asia,1595,2160,62.3,540,81,45.7,5,20.7
+San Field,Asia,6896,2890,69.7,920,119,55.9,4.7,20.4
+Valleyport,Asia,8790,2980,73.1,950,109,47.8,5.8,25.2
+Lake Ridge,Asia,4149,3070,73,980,67,73.4,7.3,34.3
+Port Park,Asia,11085,2650,72.8,870,46,66.1,7.3,28.4
+Lake Valley,Asia,7014,2800,69.1,830,102,71.6,6.1,30.2
+Parkton,Asia,11651,3240,78.3,900,115,62.4,5.7,29.6
+San River,Asia,8916,1880,81.4,750,112,39.7,4.1,29.4
+Bridgeborough,Asia,8794,2900,87.2,1130,103,70,7,38
+Harborford,Asia,8047,2940,72.6,1010,105,80.9,6.2,24
+Forestburg,Asia,5660,2980,68.8,1200,99,54,5.8,28.7
+Port Bay,Asia,8137,1600,54.7,530,57,49.8,5.8,21.5
+Harborborough,Asia,8281,3100,72.5,960,78,56.2,6.2,24.7
+Bridgeville,North America,2049,4890,92.7,1880,59,51.9,8.5,36
+Vistaville,North America,4110,4370,100,1300,55,95,8.5,20.8
+Port Valley,North America,1527,4120,84.9,1680,62,53.4,7.4,21.2
+Lake Park,North America,3465,4480,73,1570,67,61.8,8.5,40.8
+Woodborough,North America,3287,4410,76.1,1780,52,60.7,8.5,32.2
+Lake Wood,North America,2113,1460,69.4,480,70,37.2,5.8,35.8
+New Field,North America,3837,3230,91.9,1040,107,54.2,7.2,35.3
+Beachshire,North America,2275,3710,98.4,1350,36,67.8,8.2,26.3
+New Springs,North America,1984,4700,99.1,1730,56,46.3,8.1,35.1
+Fieldville,North America,1752,2750,77.1,1040,62,52.3,7.6,41.6
+Cityshire,North America,3975,4250,83.5,1290,79,65.7,8.4,33.6
+Lake Vista,North America,1785,4260,79.9,1590,52,71.1,8.5,36.5
+San Falls,North America,1369,4940,100,1500,54,90.9,8.5,34.3
+East Town,North America,1507,4420,99.4,1340,56,71.6,8.5,45.2
+Lake Falls,North America,628,3910,89.6,1200,57,67,8.5,50.2
+Riverborough,North America,1648,4600,88.7,1440,72,55.1,7.9,29.3
+Stonehaven,North America,1269,4440,100,1630,68,62.6,8.4,30.2
+Fallston,North America,2645,5110,100,2080,59,50.9,8.5,35.3
+East Bridge,North America,3461,5220,95.7,1480,34,66.6,8.5,38.6
+San Park,North America,2816,4590,70.5,1340,50,67.7,8.5,25.4
+Springsford,North America,1718,4590,72.3,1420,44,63,8.5,46.5
+Saint City,North America,3193,3630,68.5,1490,65,74.1,8.5,45.3
+Forestport,North America,1299,2430,83.1,870,84,34.5,6.9,34.1
+North Wood,North America,2314,5070,100,1850,66,82.8,8.5,31.2
+Lake River,North America,2262,3600,78.2,1470,64,83.7,8.5,43.1
+Fieldburg,North America,2085,4820,96.9,2080,60,44.1,8.5,29.8
+Ridge,North America,918,4310,100,1550,47,59.4,8.5,50.9
+Old Forest,North America,1379,4220,100,1270,54,72.1,8.5,45.2
+San Town,North America,4344,3740,89.4,1540,96,55.9,7.3,36.8
+Valleyshire,North America,3412,3180,80.6,1010,71,55.4,7.5,47.4
+Fieldhaven,North America,3004,5000,100,1280,66,43.5,8.5,40.4
+South Vista,North America,3513,3720,100,1370,73,61.9,6.9,24.3
+Hillport,North America,3527,4700,100,1730,68,87.7,8.5,23
+West Wood,North America,4527,2930,65.2,930,77,62,6.8,32.4
+Harborville,North America,3260,3750,99.9,1580,77,71.2,8.2,39.2
+Townburg,North America,3126,3750,85.6,1470,56,39.7,8.5,45.1
+Forestton,North America,1983,4190,100,1760,60,95,8.5,32.9
+San Bridge,North America,2034,4340,83.7,1840,68,62.2,8.5,43.3
+Gardenland,North America,1388,5080,92.8,1670,54,47.4,8.5,52.9
+Vistahaven,North America,3037,4450,80.7,1840,42,73.8,8.5,30
+Saint Ridge,North America,2906,4430,88.3,1240,55,56.2,8.5,26
+Valleyton,North America,2165,3370,68.5,1160,59,69.8,8.5,33.7
+Forestland,North America,3111,4460,100,1290,44,82.4,8.5,30.5
+Lake Springs,North America,2143,4620,100,1340,58,47.3,8.5,45.1
+Woodton,North America,1967,3100,79,1270,67,44.1,7.9,39
+Cityborough,North America,2011,4070,87.3,1630,57,51.3,7.6,30.1
+Fallsdale,North America,2486,4870,88.1,1330,52,89.3,8.5,36.1
+Valley,North America,769,5530,100,2350,34,63.6,8.5,33.2
+Townville,North America,1763,5720,100,2430,55,85.6,8.5,22.2
+Stoneburg,North America,3830,3290,68,1160,63,50.7,7.1,39.1
+Saint Point,South America,4566,1640,66.8,660,87,38.1,5.1,29.5
+Woodville,South America,7564,1100,49.7,350,98,43.3,4.2,30.8
+West Ridge,South America,3779,2500,63.9,880,38,49,6.6,34.4
+Lake Garden,South America,2131,1650,55.3,570,74,40.3,4.7,20.6
+Bridgehaven,South America,1137,2460,64.1,960,59,54.7,6.7,40.3
+Vistadale,South America,6089,1980,63.9,710,97,47.1,5,32.7
+North Valley,South America,2816,1460,66.3,540,92,53.4,6.3,34.6
+East Park,South America,4621,1790,71.3,580,86,60.4,5.7,43
+Gardenville,South America,3088,1830,64,620,79,38.4,5.2,35.1
+Port Garden,South America,3458,1490,63.5,350,55,38.3,5.7,43.7
+West Springs,South America,6758,2240,66.6,1010,104,48.6,4.5,16.2
+Citydale,South America,2635,1590,50,790,66,35,5.5,35.2
+Wooddale,South America,4679,1350,61.9,450,60,38.8,6,28.6
+North Park,South America,4308,1600,66.8,570,84,46.2,5.9,36.7
+Vistaburg,South America,5078,2040,64.9,670,86,49.1,4.9,25.6
+Riverport,South America,2029,2130,82.1,730,66,51.5,6.8,30
+West Garden,South America,2633,1760,76.7,520,55,45.9,6,28.7
+Stoneford,South America,2930,1570,54.3,650,77,52.1,4.7,22.5
+East River,South America,4848,2390,55.9,990,67,68.4,5.8,24
+Fieldland,South America,3076,2110,53.2,600,62,42.3,5.7,25.3
+Mount Point,South America,3877,2140,64.5,490,68,49,6.6,42.8
+Cityton,South America,5703,1520,68,430,84,65.2,5.8,43
+Mount Springs,South America,548,1760,65.4,470,45,36.9,7.1,32.9
+Hillshire,South America,4662,1850,67.5,760,80,50.8,5.2,32
+Ridgeborough,South America,2995,1850,58.3,690,59,54.5,6.9,45.9
+Parkford,South America,4630,1990,69.4,750,111,63.6,5.9,28
+Beachville,South America,3528,2250,64.8,860,75,59.3,5.5,25.4
+Old Point,South America,6084,2470,66.2,860,89,61.9,5.8,17.5
+Harborton,South America,2777,1640,55.5,560,84,51.3,5.2,36.8
+Valleyland,South America,5451,1910,63.1,600,69,56.5,5.4,28.6
+Gardendale,South America,4343,1550,50,630,70,47.4,6,36.6
+Saint Town,South America,5061,2110,61.3,620,99,50,4.8,34.2
+Springshaven,South America,3500,1340,59.7,530,55,44.9,6.1,42
+Stoneport,South America,5740,1870,62.4,820,68,63.2,5.7,27.3
+Saint Stone,South America,7147,1910,65.1,770,84,70.5,5.5,36.2
+San Ridge,South America,3377,1550,59.2,480,63,35.4,5.7,40.8
+Old Valley,South America,5263,1410,65.7,550,87,46.4,5.1,35
+Mount River,South America,1158,1770,56.4,630,59,47.2,5.5,37.8
+New Town,South America,3507,1600,49.5,570,91,40.3,4.2,21
+Mount Town,South America,3921,1690,61.1,480,106,42.4,4.8,28.5
+Port Town,Africa,2258,960,43.6,350,96,40.1,3.8,35
+Valleyville,Africa,2685,780,34,200,92,42.2,3.3,32.2
+Old Bay,Africa,2072,480,45.9,170,100,33.2,2.5,17.5
+Springsburg,Africa,861,1230,37,340,70,30.7,4.2,31.1
+Beachhaven,Africa,2223,910,42.1,380,63,39.2,4.8,51.2
+West Harbor,Africa,856,830,46.3,240,53,15,3.7,41.1
+Springsshire,Africa,1567,840,44.7,280,74,32.4,4.1,31.4
+North Springs,Africa,1668,700,45.5,290,88,42.3,4,40.8
+New Vista,Africa,2656,920,47.5,380,106,46.8,3.4,23.1
+Stoneborough,Africa,2716,600,44.8,210,95,28.7,4.1,36.7
+North River,Africa,3701,670,36.2,240,130,31.1,2.6,40.3
+Bayville,Africa,1845,790,47.5,280,62,27.3,4.6,42.3
+West City,Africa,1418,980,52.6,390,65,36,5.6,38.2
+East Wood,Africa,2961,560,45.7,190,96,30.1,2.9,36.8
+Parkburg,Africa,3088,970,45.2,370,70,42.2,4.5,34.5
+Old Field,Africa,1985,1050,46.8,260,80,38.5,5.2,52.3
+Hillford,Africa,2337,1090,50.4,350,85,29,4.8,52.2
+Valleyhaven,Africa,2215,1020,41.3,330,125,33.3,3.1,40.7
+Fielddale,Africa,1974,740,43.2,270,77,23.7,4,47.7
+Riverdale,Africa,1868,940,45.7,240,85,45.5,4.6,50.7
+New Valley,Africa,2017,600,52,190,97,47.5,3.2,26.2
+San Hill,Africa,1662,880,39.8,310,83,28.2,4.8,56.9
+San Springs,Africa,2211,740,48.5,250,69,40.4,4.4,44.4
+Hillborough,Africa,1774,850,46,320,89,44,4.3,31.8
+Ridgeport,Africa,3066,930,49.2,260,106,28.1,3.1,40.7
+South Bridge,Africa,421,750,37.6,210,82,32.7,3.7,33.7
+New Beach,Africa,2640,810,38.6,240,67,37,4.2,36.3
+Pointville,Africa,2270,1010,49.3,460,77,29.6,4.7,39.3
+New Bay,Africa,1161,960,47.5,350,96,41.1,3.6,34.2
+North Bridge,Africa,1556,710,38.2,280,62,36.2,4.6,50.1
+Old Town,Africa,2859,940,39.4,390,106,32.9,3.7,47.3
+San Forest,Africa,2118,1000,54.4,350,65,37.6,5.6,52.7
+Parkdale,Africa,2460,1240,37.6,480,67,41.1,4.4,37.4
+New Ridge,Africa,2147,1110,48.6,350,88,39.5,4,24.3
+South River,Africa,1716,1080,45.6,340,44,51.4,4.2,34.2
+Springston,Oceania,885,3910,100,1370,24,64.2,8.5,35.1
+Pointton,Oceania,1045,3190,75,890,33,61.1,8.5,40.9
+South Park,Oceania,971,3890,96.5,1600,32,62.5,8.5,49.2
+East Falls,Oceania,1064,4210,94,1290,33,58,8.5,35.6
+Old Ridge,Oceania,1481,4290,96.8,1360,34,51.6,8.5,58
+Fallsford,Oceania,835,4300,100,1800,26,43.6,8.5,34.1
+North Point,Oceania,1613,4200,100,1310,32,51.6,8.5,15.3
+North Town,Oceania,1015,3270,100,1170,36,53.9,8.3,36.7
+Valleydale,Oceania,533,3610,90.9,1280,38,58.8,8.3,28.3
+Riverton,Oceania,915,3360,94.8,1330,36,59,8.5,30.7
+South Point,Oceania,849,3000,82.9,1170,41,57,8.5,41.4
+Vistaton,Oceania,730,2820,68.8,1080,63,54.8,7.2,35.3
+Hillburg,Oceania,737,2980,79.3,720,51,38.2,7.9,36.5
+Mount Wood,Oceania,737,4360,53.9,1610,26,55.4,8.5,36.1
+South Bay,Oceania,1647,3950,76.4,1210,57,56.2,8.5,36.9
+Fieldshire,Oceania,2042,3620,87.8,1170,43,67.6,8.5,48.5
+Gardenshire,Oceania,1124,3520,88.3,1320,52,63.2,8.5,47.4
+South Stone,Oceania,594,4220,72.7,1850,22,65.1,8.5,32.5
+Old Beach,Oceania,1605,4400,100,1510,41,60.4,8.5,38.4
+Vistashire,Oceania,1007,4130,86.2,1570,38,56.8,8.5,37.5
+New Falls,Oceania,2554,3360,83.5,1150,26,29.9,8.4,29.6
+Mount Stone,Oceania,1274,4080,85.3,1430,53,79.1,8.5,31.8
+San Stone,Oceania,1529,3800,95,1340,39,69.7,8.5,37.1
+Bridgeport,Oceania,1474,3620,76.3,1430,47,65.9,8.5,46.7
+Beachdale,Oceania,1734,3700,96.4,1090,35,54.7,8.5,28
+New Forest,Oceania,1255,2890,86.4,940,28,53.4,8.5,35.2
+Fallsland,Oceania,1107,4600,89.1,1300,50,67.7,8.5,39.9
+Ridgeland,Oceania,1743,3500,78,1260,36,44.3,8.3,23.3
+Port Forest,Oceania,353,2500,80.2,840,40,29.9,7.6,36.1
+West Falls,Oceania,761,3180,68.4,1220,45,48.2,8.5,46.8
+Old Harbor,Oceania,1004,4620,100,1500,40,64.2,8.5,50.2
+Ridgehaven,Oceania,1652,4500,100,1650,44,49.3,8.5,37.4
+North Field,Oceania,836,3910,98.7,1340,40,55.7,8.5,38.6
+Bridgeford,Oceania,758,3490,91.2,1390,36,54.1,8.5,44.6
+Townshire,Oceania,1235,4330,86.4,1150,41,75.3,8.5,39.9
